@@ -1,0 +1,7 @@
+;;; -*- mode: org; -*-
+
+* datecut
+
+datecut cuts a file along some date/timestamp. it's useful for
+splitting one log file into many smaller date related files. Think of
+it like a shitty logrotate.
